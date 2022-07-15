@@ -18,7 +18,7 @@ score.innerHTML = startScore;
 inputNumber.focus();
 
 // * get selected number
-selectedNumber = Math.floor(Math.random() * 20);
+selectedNumber = Math.ceil(Math.random() * 20);
 
 // * if the user came back to the game, show him the highest score from before
 if (localStorage.goal) {
@@ -102,5 +102,5 @@ function startAgain() {
     message.style.color = '#fff';
     number.innerHTML = '?';
     score.innerHTML = startScore;
-    selectedNumber = Math.floor(Math.random() * 20);
+    selectedNumber = Math.ceil(Math.random() * 20);
 }
