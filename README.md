@@ -1,2 +1,3 @@
 # Guess-my-number
-small Interesting game of luck
+Small Interesting game of luck
+Click to visit website: https://andrijadenic9.github.io/paper-rock-scissors/
