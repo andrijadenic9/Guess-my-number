@@ -25,7 +25,7 @@ In the "Guess My Number" game, you are challenged to guess the randomly selected
 
 Put your guessing skills to the test and try to guess the mystery number! Play the "Guess My Number" Game and challenge yourself to achieve the lowest possible score. If you have any questions, feedback, or suggestions, feel free to reach out. Enjoy the game and happy guessing!
 
-[Play the Memory Game](https://andrijadenic9.github.io/Guess-my-number/)
+[Play the Guess My Number Game](https://andrijadenic9.github.io/Guess-my-number/)
 
 ## Tech Stack
 
